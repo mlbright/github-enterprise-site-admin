@@ -133,6 +133,7 @@ Best to simply turn the feature off.
 
 Users will find other destinations to publish the source of their web sites, documentation, or whatever.
 This cleanly separates the concerns of collaborating around _development_, which lie with GitHub, from the concerns of _publication or hosting_.
+Built artifacts, binaries, images and other items that do not really belong in Git will thus not be polluting the repositories.
 
 **That's it for now!**
 
