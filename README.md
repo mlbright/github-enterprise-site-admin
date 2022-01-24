@@ -12,7 +12,7 @@ Unfortunately, it isn't enabled by default, which is a shame.
 If you're running an instance with many users and large repositories (ours which had thousands of user accounts and hundreds of daily users, often with heavy workloads) you will likely run into performance issues. 
 GitHub Enterprise is a single VM instance.
 A single point of failure, and thus one can only scale it vertically.
-The default rate limits are reasonable for most workloads, but it's better to start somewhere and adjust them than allow abusive behavior to take foot.
+The default rate limits are reasonable for most workloads, but it's better to start somewhere and adjust them than allow abusive behavior to take root.
 
 ### Hardware
 
