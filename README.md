@@ -35,6 +35,8 @@ Ask yourself if your organization really needs GitHub Enterprise as opposed to [
 Do you really need the headache of administering your own instance?
 Be aware that new features are always rolled out to GitHub.com first, and often do not appear in Enterprise until 6 or more months later.
 
+Also, if you have large repositories, potentially with Git LFS files, it may be advantageous to have the dedicated computing resources of an Enterprise appliance.
+
 ### Hubble
 
 If you run GitHub Enterprise, you will need to have a sense of its usage that goes beyond what is provided by GitHub.
