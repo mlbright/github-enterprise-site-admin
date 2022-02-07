@@ -1,6 +1,6 @@
 ## GitHub Enterprise Site Administration
 
-**_This page has moved to https://mlbright.github.io/til/github-site-administration/_**
+**_This page has moved to https://mlbright.github.io/github-site-administration/_**
 
 For several years, my main responsibility at work was [GitHub Enterprise][enterprise] system administration.
 Here is a collection of thoughts, in no particular order.
